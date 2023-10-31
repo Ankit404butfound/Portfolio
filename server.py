@@ -36,7 +36,6 @@ portfolio = f'{open("portfolio.txt", "r").read()}'
 for key, value in style_json.items():
     portfolio = portfolio.replace("{%s}" % key, value)
 
-print(portfolio)
 
 
 
