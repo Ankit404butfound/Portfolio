@@ -1,0 +1,17 @@
+{red}Hello there!{reset}
+{green}My name is {blink}Ankit Raj Mahapatra{reset}
+{cyan}I am a Full Stack Python Developer and an IOT enthusiast
+I am currently pursuing my B.Tech in Computer Science and Engineering from Krishna Engineering College, Ghaziabad
+I am a self taught programmer and I love to learn new things.
+I am very passionate about my work and I love to work in a team.
+I am currently working as a Software Developer Intern at {yellow}Aveti Learning Private Limited
+
+████████╗██╗  ██╗ █████╗ ███╗  ██╗██╗  ██╗ ██████╗      █████╗ ███╗  ██╗██╗  ██╗██╗████████╗
+╚══██╔══╝██║  ██║██╔══██╗████╗ ██║██║ ██╔╝██╔════╝     ██╔══██╗████╗ ██║██║ ██╔╝██║╚══██╔══╝
+   ██║   ███████║███████║██╔██╗██║█████═╝ ╚█████╗      ███████║██╔██╗██║█████═╝ ██║   ██║   
+   ██║   ██╔══██║██╔══██║██║╚████║██╔═██╗  ╚═══██╗██╗  ██╔══██║██║╚████║██╔═██╗ ██║   ██║   
+   ██║   ██║  ██║██║  ██║██║ ╚███║██║ ╚██╗██████╔╝╚█║  ██║  ██║██║ ╚███║██║ ╚██╗██║   ██║   
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚═╝╚═════╝  ╚╝  ╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚═╝╚═╝   ╚═╝   
+
+
+{reset}
